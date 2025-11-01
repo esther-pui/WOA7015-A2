@@ -11,6 +11,9 @@ This project is a deliverable for the WOA7015 Advanced Machine Learning course a
 
 The code should be viewed as educational material and a personal work portfolio, not as a production-ready library. It is shared strictly for reference and documentation purposes.
 
+### 👤 Author
+
+* **GitHub Profile:** [@esther-pui](https://github.com/esther-pui)
 ---
 
 ## 🌟 Task Summary

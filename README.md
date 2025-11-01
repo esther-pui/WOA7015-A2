@@ -7,7 +7,7 @@ This repository documents the solution for WOA7015 Advanced Machine Learning, As
 * **Title:** Individual Assignment 2
 * **Course:** WOA7015 Advanced Machine Learning
 * **School:** Universiti Malaya (**Master in Artificial Intelligence**)
-* **Date Started:** 26th October 2025
+* **Date:** 26th October 2025 - 1st November 2025
 
 ---
 

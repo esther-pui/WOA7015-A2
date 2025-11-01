@@ -38,8 +38,8 @@ The custom model is built by implementing the core optimization steps of **Gradi
 
 | Document | Link Shorcut |
 | :--- | :--- |
-| **Source Code** | [View Executable Code on Google Colab](YOUR_COLAB_NOTEBOOK_LINK_HERE) - TBA|
-| **Report** | [View Final Report (Google Doc/PDF)](YOUR_GOOGLE_DOC_OR_PDF_LINK_HERE) - TBA|
+| **Source Code** | [View Executable Code on Google Colab](https://colab.research.google.com/drive/1g1hC4IxCCDBwawFFaYpd0Ii3uV2xdMOM?usp=sharing)|
+| **Report** | [View Final Report (Google Doc/PDF)](https://docs.google.com/document/d/1uFSvaVnrw-Vob7Fx98BWq0fHy80aJEyy-mi74WAc0Wk/edit?usp=sharing)|
 
 The entire project is contained within an **iPython Notebook (`.ipynb`)**.
 

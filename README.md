@@ -1,13 +1,15 @@
 # Logistic Regression: From Scratch to PyTorch
 
 ## Project Overview
-
-This repository documents the solution for WOA7015 Advanced Machine Learning, Assignment 2 at Universiti Malaya: implementing Logistic Regression's Gradient Descent from scratch using NumPy and validating its testing accuracy against a professional benchmark built with PyTorch.
-
 * **Title:** Individual Assignment 2
 * **Course:** WOA7015 Advanced Machine Learning
 * **School:** Universiti Malaya (**Master in Artificial Intelligence**)
 * **Date:** 26th October 2025 - 1st November 2025
+
+### ⚠️ Disclaimer: Personal Learning & Reference Only
+This project is a deliverable for the WOA7015 Advanced Machine Learning course at Universiti Malaya. It represents my from-scratch implementation of Logistic Regression and its Gradient Descent algorithm, intended to document my understanding and learning journey in machine learning fundamentals.
+
+The code should be viewed as educational material and a personal work portfolio, not as a production-ready library. It is shared strictly for reference and documentation purposes.
 
 ---
 
